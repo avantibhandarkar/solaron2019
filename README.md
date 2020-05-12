@@ -1,2 +1,2 @@
-# solaron2019
+# solaron
 Code for a residential solar tracker unit
